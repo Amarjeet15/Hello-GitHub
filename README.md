@@ -1,2 +1,2 @@
 # Hello-GitHub
-Excited to embark on my GitHub journey by creating my very first repository! 🌟 Introducing myself to the developer community and eager to start sharing and collaborating on future projects. #FirstRepository #GitHubDebut
+I'm so excited to start my GitHub journey by creating my first repository! 🌟 I'm introducing myself as a frontend developer and am looking forward to creating projects and collaborating on future projects. #FirstRepository #GitHubDebut
